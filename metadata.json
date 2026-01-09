@@ -1,0 +1,5 @@
+{
+  "name": "NovaStream AI Video Player",
+  "description": "A modern, AI-enhanced video player that uses Gemini to automatically summarize, tag, and analyze your video content.",
+  "requestFramePermissions": []
+}
